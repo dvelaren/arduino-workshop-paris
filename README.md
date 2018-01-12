@@ -1,11 +1,11 @@
 # Arduino Workshop for Université Paris 1 -  Sorbonne
 Arduino workshop course for basic concepts required to start developing software in Arduino Platform. It consists in a total of 5 classes (click for PDF):
 
-* [Class 1 - Arduino Fundamentals](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class 1 - Arduino Fundamentals.pdf)
-* [Class 2 - Sensors](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class 2 - Sensors.pdf)
-* [Class 3 - Analog Outputs and Mapping](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class 3 - Analog Outputs and Mapping.pdf)
-* [Class 4 - IO Table and FSM](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class 4 - IO Table and FSM.pdf)
-* [Class 5 - Relative Timing and FSM for Arduino](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class 5 - Relative Timing and FSM for Arduino.pdf)
+* [Class 1 - Arduino Fundamentals](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class%201%20-%20Arduino%20Fundamentals.pdf)
+* [Class 2 - Sensors](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class%202%20-%20Sensors.pdf)
+* [Class 3 - Analog Outputs and Mapping](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class%203%20-%20Analog%20Outputs%20and%20Mapping.pdf)
+* [Class 4 - IO Table and FSM](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class%204%20-%20IO%20Table%20and%20FSM.pdf)
+* [Class 5 - Relative Timing and FSM for Arduino](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Slides/Class%205%20-%20Relative%20Timing%20and%20FSM%20for%20Arduino.pdf)
 
 ## Requirements
 * [Arduino UNO](http://www.arduino.org/products/boards/arduino-uno) or [Arduino Mega](https://www.arduino.cc/en/Main/arduinoBoardMega).
