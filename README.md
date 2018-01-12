@@ -106,11 +106,8 @@ Do an Arduino program that allows to blink a LED (L1) ½ sec ON and ½ sec OFF u
 #### Example 5.2 – FSM with Arduino
 Do an Arduino program that blinks a LED (L1) connected on pin 2, ½ sec ON and ½ sec OFF while the emergency button is not activated (BEMG) connected on pin 8. If BEMG is ON, the LED L1 remains OFF and the LED L2 connected on pin 3 turns ON. When there isn’t anymore an emergency, the process returns to its normal blinking.
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E52-BlinkFSM.png)
-Solution
-* I/O Table
-
+##### I/O Table
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E52-BlinkFSMSol1.png)
 
-* FSM
-
+##### FSM
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E52-BlinkFSMSol2.png)
