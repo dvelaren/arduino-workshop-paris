@@ -58,7 +58,7 @@ Measure the distance in cm using an ultrasonic sensor (for SRF05).
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E22-Ultrasonic.png)
 
 #### Example 2.3 – DHT11
-Do  a program on Arduino that monitors the temperature and humidity of the DHT11 and prints each values on the Serial Monitor every second. If the temperature rises 25 °C, turn a LED L1.
+Do  a program on Arduino that monitors the temperature and humidity of the DHT11 and prints each values on the Serial Monitor every second. If the temperature rises 30 °C, turn a LED L1.
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E23-DHT11.png)
 
 ### Class 3 - Analog Outputs and Mapping
