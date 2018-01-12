@@ -108,6 +108,9 @@ Do an Arduino program that blinks a LED (L1) connected on pin 2, Â½ sec ON and Â
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E52-BlinkFSM.png)
 Solution
 * I/O Table
+
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E52-BlinkFSMSol1.png)
+
 * FSM
+
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E52-BlinkFSMSol2.png)
