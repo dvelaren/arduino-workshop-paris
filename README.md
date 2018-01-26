@@ -54,8 +54,11 @@ Do an Arduino program that monitors the value of the potentiometer and shows it 
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E21-Potentiometer.png)
 
 #### Example 2.2 – Ultrasonic Sensor
-Measure the distance in cm using an ultrasonic sensor (for SRF05).
-![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E22-Ultrasonic.png)
+A: Measure the distance in cm using an ultrasonic sensor (for SEEED).
+![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E22A-Ultrasonic.png)
+
+B: Measure the distance in cm using an ultrasonic sensor (for SRF05).
+![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E22B-Ultrasonic.png)
 
 #### Example 2.3 – DHT11
 Do  a program on Arduino that monitors the temperature and humidity of the DHT11 and prints each values on the Serial Monitor every second. If the temperature rises 30 °C, turn a LED L1.
