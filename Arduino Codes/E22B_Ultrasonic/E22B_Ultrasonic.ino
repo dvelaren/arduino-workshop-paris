@@ -1,4 +1,4 @@
-//Class 2 - Example 2 - Ultrasonic
+//Class 2 - Example 2B - Ultrasonic (SFR05)
 //Description: Measure the distance in cm using an ultrasonic sensor (for SRF05)
 
 //I/O Pin Labeling
@@ -13,7 +13,7 @@ unsigned int ultraMeas(unsigned int ECHOPIN, unsigned int TRIGPIN) {
   delay(50);  //Delay of 50 ms before the next ranging
   digitalWrite(TRIGPIN, HIGH); //Turn ON the TRIG for measuring the distance
   delayMicroseconds(10);  //Wait 10uSecs with the TRIG ON
-  digitalWrite(TRIGPIN, LOW); //Turn OFF the TTRUG
+  digitalWrite(TRIGPIN, LOW); //Turn OFF the TRIG
   return pulseIn(ECHOPIN, HIGH)/58.0; //Return the distance on centimeters
 }
 
@@ -36,4 +36,3 @@ void loop() {
   Serial.print("Distance (cm): ");
   Serial.println(distance);
 }
-
