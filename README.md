@@ -31,7 +31,8 @@ This class covers:
 7. Arduino common statements.
 
 #### Example 1.1 – Arduino common used commands
-In PIN 13 there is a LED (L1) connected. Blink the LED ½ second ON and ½ second OFF.
+A: In PIN 13 there is a LED (L1) connected. Blink the LED ½ second ON and ½ second OFF.
+B: Print the LED status on Serial Monitor
 ![alt text](https://raw.githubusercontent.com/tidusdavid/arduino-workshop-paris/master/Resources/E11-Blink.png)
 
 #### Example 1.2 – If statement with digital input
