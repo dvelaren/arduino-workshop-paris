@@ -20,10 +20,10 @@ unsigned int ultraMeas(unsigned int SIGPIN) {
 
 void setup() {
   //I/O Pin Definition
-  pinMode(SIGPIN, OUTPUT); //SIGPIN as output
+  pinMode(SIG, OUTPUT); //SIGPIN as output
 
   //Physical Output Cleaning
-  digitalWrite(SIGPIN, LOW); //Turn OFF SIGPIN
+  digitalWrite(SIG, LOW); //Turn OFF SIGPIN
 
   //Communications
   Serial.begin(9600); //Begin Serial Communications with the computer by the Serial 0 port (TX0 RX0) at 9600 bauds
